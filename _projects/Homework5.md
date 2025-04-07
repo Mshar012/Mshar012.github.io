@@ -1,6 +1,6 @@
 ---
-name: HW5 - Jekyll Webpage
-tools: [Python, Altair, Vega-Lite]
+name: Homework 5
+tools: [Python,Altair, Vega-Lite]
 image: /assets/pngs/iSchool.png
 description: Two interactive Altair visualizations showing government building construction years and usage types by county.
 custom_js:
